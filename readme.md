@@ -251,6 +251,7 @@
 - [Pyramid](https://github.com/uralbash/awesome-pyramid#readme)
 - [Play1 Framework](https://github.com/PerfectCarl/awesome-play1#readme)
 - [CakePHP](https://github.com/friendsofcake/awesome-cakephp#readme) - PHP framework.
+- [Yii](https://github.com/awesome-yii/list)
 - [Symfony](https://github.com/sitepoint-editors/awesome-symfony#readme)
 	- [Education](https://github.com/pehapkari/awesome-symfony-education#readme)
 - [Laravel](https://github.com/chiraggude/awesome-laravel#readme) - PHP framework.
